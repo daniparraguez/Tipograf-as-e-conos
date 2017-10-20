@@ -1,0 +1,50 @@
+div{
+	height:300px; 
+	width:150px;
+	background-color:#D8D8D8;
+	float: left;
+	margin-right:10px;
+	text-align: center;
+	padding: 20px 20px 0px 20px;
+}
+.fa{
+	color: grey;
+}
+.fa:hover{
+	color: #E6E6E6;
+	font-size: 120px;
+	cursor:pointer;
+}
+h1{
+   font-size: 18px;
+   color:#868585;
+ }
+h2{
+   font-size: 15px;
+   color:#4E4848;
+   text-align: center;
+
+
+ }
+p{
+   font-size: 15px;
+   color:#868585;
+
+
+}
+
+.primer-cuadro{
+	
+}
+.segundo-cuadro{
+
+}
+.tercer-cuadro{
+
+}
+.cuarto-cuadro{
+
+}
+.quinto-cuadro{
+
+}
